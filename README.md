@@ -1,8 +1,6 @@
 # Network Analysis on Epinions Trust Network
 
 
-**GitHub Repository**: https://github.com/2024-F-CS6240/project-adit-atharva
-
 ---
 
 ## Project Overview
@@ -17,7 +15,7 @@ This project implements two major tasks analyzing the Epinions trust network (75
 ## Branch Navigation
 
 ### Task 1: Ban-Wave Robustness Analysis
-📁 **Branch**: `task1`
+
 
 Navigate to this branch for:
 - Connected components analysis
@@ -26,7 +24,7 @@ Navigate to this branch for:
 - Fragmentation statistics and speedup analysis
 
 ### Task 2: Opinion Dynamics Simulation
-📁 **Branch**: `task2`
+
 
 Navigate to this branch for:
 - DeGroot opinion dynamics model
