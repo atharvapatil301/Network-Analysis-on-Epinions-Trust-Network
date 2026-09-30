@@ -1,6 +1,5 @@
-# CS 6240 Final Project - Network Analysis on Epinions Trust Network
+# Network Analysis on Epinions Trust Network
 
-**Team Members**: Adit Kanaji, Atharva Patil
 
 **GitHub Repository**: https://github.com/2024-F-CS6240/project-adit-atharva
 
@@ -56,11 +55,7 @@ git checkout task2
 
 ---
 
-## Contact
-
-- **Adit Kanaji**
-- **Atharva Patil**
 
 **Course**: CS 6240 - Parallel Data Processing in MapReduce
 **Institution**: Northeastern University
-**Semester**: Spring 2025
+**Semester**: Summer 2026
