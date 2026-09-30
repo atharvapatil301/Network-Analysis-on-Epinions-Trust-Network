@@ -322,21 +322,9 @@ java -version  # Should show 1.8.x
 ## References
 
 - **Final Report**: `FINAL_REPORT_CONTENT.docx` (7 pages)
-- **GitHub Repository**: https://github.com/2024-F-CS6240/project-adit-atharva
 - **Dataset**: [Epinions Trust Network (SNAP)](https://snap.stanford.edu/data/soc-Epinions1.html)
 - **DeGroot Model**: [Wikipedia](https://en.wikipedia.org/wiki/DeGroot_learning)
 - **Apache Spark**: [Documentation](https://spark.apache.org/docs/latest/)
 - **AWS EMR**: [User Guide](https://docs.aws.amazon.com/emr/latest/ManagementGuide/)
 
-## Team Members
 
-- **Adit Kanaji**
-- **Atharva Patil**
-
-**Course**: CS 6240 - Parallel Data Processing in MapReduce
-**Semester**: Spring 2025
-**Institution**: Northeastern University
-
-## License
-
-MIT License - CS6240 Academic Project
