@@ -1,0 +1,5 @@
+# Ignore files with actual credentials
+*-local.properties
+aws-credentials.properties
+*.pem
+*.key

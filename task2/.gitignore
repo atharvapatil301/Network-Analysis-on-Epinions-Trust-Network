@@ -1,0 +1,83 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Java
+*.class
+*.jar
+!scripts/*.jar
+*.war
+*.ear
+*.log
+*.ctxt
+.mtj.tmp/
+hs_err_pid*
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.classpath
+.project
+.metadata/
+bin/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Data files (large datasets)
+data/*.txt
+data/*.gz
+data/*.csv
+!data/README.md
+
+# Output
+!output/aws/.gitkeep
+results/
+*.parquet
+*.orc
+
+# AWS
+aws/
+!aws/.gitkeep
+
+# Logs
+logs/
+*.log
+
+# AWS Credentials (IMPORTANT - never commit these!)
+config/*-local.properties
+config/aws-credentials.properties
+*.pem
+*.key
+.aws/
+
+# Spark
+derby.log
+metastore_db/
+spark-warehouse/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+.cache/
+
+Project_chats.md
+.claude
+
+OPINION_DYNAMICS_GUIDE.md
+READY_FOR_AWS.md
+
